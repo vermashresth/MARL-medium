@@ -1,2 +1,2 @@
 tensorforce==0.4.3
-tensorflow==1.7.1
+tensorflow==2.5.1
